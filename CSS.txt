@@ -1,0 +1,30 @@
+
+  body {
+  margin: 60px;
+  background-color: white;
+}
+
+.main-field {
+  background: white;
+  border-radius: 5px;
+  padding-top: 20px;
+}
+
+img{
+  max-width: 100%;
+}
+
+.main-header{
+  font-family: Helvetica Heue;
+  font-size: 45px;  
+}
+
+
+
+.quote{
+  font-family: Helvetica Heue
+}
+
+.copyright{
+  font-family: Geneva
+}

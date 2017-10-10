@@ -1,0 +1,28 @@
+<div class="container main-field">
+  <h1 class="main-header text-center">Google Site</h1>
+  <h3 class="text-center"><em>An Example for Free Code Academy</em></h3>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="thumbnail">
+        <img src="https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="google symbol">
+        <div class="caption text-center">a Google Logo</div>
+      </div>
+    </div>
+    <div class="col-md-6 col-md-offset-3">
+      <h2 style="font-family: Helvetica Heue ">Things Google has done:</h2>
+      <ul>
+        <li><b>Some Date</b> — Some Event</li>
+        <li><b>Some Date</b> — Some Event</li>
+        <li><b>Some Date</b> — Some Event</li>
+       
+      </ul>
+      <blockquote>
+        <p class="quote">My dream job!</p>
+        <footer>Zack P. for <cite title="Source Title">Free Code Academy</cite></footer>
+      </blockquote>
+    </div>
+  </div>
+  <p class="lead text-center">Search on  <span><a href="google.com" target="_blank">Google</a></span> and, of course, buy their  <span><a href="google.com" target="_blank">products.</a></span></p>
+</div>
+<div class="page-header"></div>
+<h5 class="copyright text-center">Created by <span><a href="https://codepen.io/zack88690/" target="_blank">Zack P.</a></span></h5>
