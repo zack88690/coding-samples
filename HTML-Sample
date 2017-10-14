@@ -1,0 +1,130 @@
+<script>
+$("img").addClass("animated shake");
+</script>
+
+<style>
+  .seven{
+    margin: auto;
+  }
+  .six{
+    font-family: Monospace;
+    font-size: 15;
+    font-color: grey;
+  }
+  body{
+    border-radius: 1px;
+  }
+  .one{
+    font-family: Monospace;
+    font-size: 40px;
+    color: grey;
+  }
+  a{
+    color: turquoise;
+  }
+  .two{
+    color: grey;
+    font-family: Monospace;
+    font-size: 11px;
+  }
+  .three{
+    border-radius: 50%;
+  }
+  .four{
+    width: 350px;
+    height: 200px;
+    margin: auto;
+  }
+  body{
+    background-color: white;
+  }
+  img {
+    box-shadow: 10px 10px 5px #888888;
+  }
+  .five{    
+    width:px;
+    height:200px;
+    margin:50px auto;
+    border-radius: 50%;
+    
+    background-image: linear-gradient(top, purole, purple 70%, transparent 70%, transparent 100%);
+    background-image: -webkit-linear-gradient(top, white, turquoise 70%, transparent 70%, transparent 100%)  
+}
+.watermark {
+    opacity: 0.5;
+    color:turquoise;
+    position: fixed;
+    top: auto;
+    left: 80%;
+}
+  
+  
+</style>
+<script>
+
+    
+    
+  
+</script>
+<html>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <head>
+    <div id="title" class="five">
+        <b><p align="center" class="one">Resume/Portfolio <a href="https://www.youtube.com/channel/UC2Im4GvvRtgGEzNcvzm526g"> Zack P. </a></p></b>
+      <em><p align="center" class="two"><caption>A small resume by me</caption></em>
+    </div>
+    
+    
+  </head>
+  <body>
+   
+      
+    <p align="center"><img src="https://cfe2-static.s3-us-west-2.amazonaws.com/media/cfe-blog/datetime-monthly-ranges/Screen_Shot_2017-03-06_at_11.02.41_AM.png" alt="coding" class="four three"></p>
+    <div class="two">
+      <p align="center"><caption>Python</caption></p>
+      <p align="center"><caption>: Scripting language. Advanced Knowledge.</caption></p>
+      </div>
+
+      <p align="center"><img src="http://www.v7n.com/forums/attachments/web-design-lobby/11315d1263951267-simple-startup-html-coding-doc-structure-example.png" alt="html" class="four three"></p>
+    <div class="two">
+      <p align="center"><caption>HTML5</caption></p>
+      <p align="center"><caption>:Markup language used by all browsers. Intermediate experience</div>
+      
+  </body>
+ 
+    
+     
+    </div>
+    <p align="center"><img src="https://www.codeproject.com/KB/database/SqlBuilder/AutoGenerate.gif" alt="SQL" class="four three"></p>
+    <div class="two">
+      <p align="center"><caption>SQL(Sequel)</caption></p>
+      <p align="center"><caption>: Database management language. Beginner.</caption></p>
+       
+  <footer>
+    <div class="six">
+      <p align="center">Hey! I'm Zack, a 14 year old programmer from FL, looking to expand my knowledge of programming through different websites and hopefully internships.<br>As of now I'm studying mysql, HTML, CSS, JQUERY, Java, Javascript, C#, and Python</p>
+    </div>
+    <form>
+      <p align="center">
+        <form action="mailto:zack88690@gmail.com" method="post" enctype="text/plain">
+        Name:<br>
+        <input type="text" name="name"><br>
+        E-mail:<br>
+        <input type="text" name="mail"><br>
+        Comment:<br>
+        <input type="text" name="comment" size="50"><br><br>
+        <input type="submit" value="Send">
+        <input type="reset" value="Reset">
+</form>
+    </p>
+    </form>
+      <div class="two">
+        
+        <p align="center"><caption>Interested? Contact me!</caption></p>
+        
+          </div>
+    
+  </footer>
+  
+</html>
